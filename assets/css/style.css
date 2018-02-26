@@ -4,24 +4,24 @@ body {
 }
 
 h1 {
-    font-size: 32px;
+    font-size: 40px;
     font-weight: bold;
-    color: yellow;
+    color: #21204A;
     margin-left: 10px;
     margin-top: 10px;
     text-align: center;
 }
 
 p {
-    font-size: 20px;
-    margin-left: 10px;
-    margin-top: 10px;
-    color: #ebebeb;
-}
-
-h2{
     font-size: 24px;
     margin-left: 10px;
     margin-top: 10px;
-    color: #ebebeb;
+    color: #21204A;
+}
+
+h2{
+    font-size: 32px;
+    margin-left: 10px;
+    margin-top: 10px;
+    color: #21204A;
 }
