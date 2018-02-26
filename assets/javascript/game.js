@@ -56,3 +56,5 @@ document.onkeyup = function(event) {
         alert("Must choose a letter a through z!");
     }
 }
+// I want to have an alert telling the user they've lost, but when I attempt if losses ++ it happens every incorrect guess,
+// or if I try chances = 0, it ignores it and starts the counter over. Any input would be appreciated.

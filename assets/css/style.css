@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 50px;
     font-weight: bold;
     color: #21204A;
     margin-left: 10px;
@@ -13,14 +13,14 @@ h1 {
 }
 
 p {
-    font-size: 24px;
+    font-size: 32px;
     margin-left: 10px;
     margin-top: 10px;
     color: #21204A;
 }
 
 h2{
-    font-size: 32px;
+    font-size: 40px;
     margin-left: 10px;
     margin-top: 10px;
     color: #21204A;
