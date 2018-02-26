@@ -42,6 +42,7 @@ document.onkeyup = function(event) {
                 wins ++;
                 document.getElementById("wins").innerHTML = wins;
                 newRound();
+                alert("You guessed right! Hey, how'd you do that?")
             }
         }
         
@@ -49,8 +50,8 @@ document.onkeyup = function(event) {
             losses ++;
             document.getElementById("losses").innerHTML = losses;
             newRound();
+            }
         }
-    }
     else {
         alert("Must choose a letter a through z!");
     }
