@@ -1,0 +1,27 @@
+body {
+    width: 100%;
+    font-family: 'Monoton', cursive;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+    color: yellow;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    color: #ebebeb;
+}
+
+h2{
+    font-size: 24px;
+    margin-left: 10px;
+    margin-top: 10px;
+    color: #ebebeb;
+}
